@@ -71,7 +71,9 @@ Dynamic year slicer
 
 <img src="dashboard/Overview_Slicers.png" width="800">
 *Overview Page with dynamic slicer panel
-
+<p>
+  
+</p>
 
 Page 2 — Student Engagement & Attendance
 
